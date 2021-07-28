@@ -11,7 +11,8 @@ The simulation can be slowed down by up to 100 times.
 * MonoGame
 
 ## Remarks
-The physics have many bugs and are not really realistic. This applies mostly to the traction of the wheels
+The physics have many bugs and are not really realistic. This applies mostly to the traction of the wheels.
+Also the code quality is really bad.
 
 ## Pictures
 ![Examples1](Car_Physics_1.png)
